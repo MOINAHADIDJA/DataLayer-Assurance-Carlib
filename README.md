@@ -1,3 +1,3 @@
 # datalayer-assurance-carlib
 
-Application de gestion d'assurances avec Spring data JPA
+Application de gestion d'assurances avec Spring Boot, Spring data JPA
